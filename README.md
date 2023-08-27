@@ -1,1 +1,1 @@
-# Portfolio przypadków testowych
+# Portfolio Tester Manualny :)
